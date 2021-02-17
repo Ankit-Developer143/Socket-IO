@@ -21,6 +21,8 @@ The first goal is to set up a simple HTML webpage that serves out a form and a l
 
 First let’s create a package.json manifest file that describes our project. I recommend you place it in a dedicated empty directory (I’ll call mine chat-example).
 
+## Want to know More ![Click]('https://socket.io/get-started/chat')
+
 
 
 
